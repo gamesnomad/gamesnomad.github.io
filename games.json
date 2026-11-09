@@ -12,6 +12,13 @@
   "a4ddc609fd",
   "89f41b6351"
  ],
+ "popup": {
+  "enabled": true,
+  "type": "discount",
+  "game_id": "",
+  "title": "\u00e2\u0161\u00a1 Limited-Time Deal Spotlight",
+  "badge": "SPECIAL DEAL"
+ },
  "games": [
   {
    "id": "a8d0d68a4b",
@@ -23,8 +30,13 @@
    "discount": 43,
    "link": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": null,
    "description": null,
-   "platforms": null
+   "platforms": null,
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "422d9298d4",
@@ -36,11 +48,16 @@
    "discount": 23,
    "link": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "Xbox",
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "89f41b6351",
@@ -52,10 +69,15 @@
    "discount": 59,
    "link": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/?igr=gamenomadbot",
    "wishlist": true,
+   "featured": false,
    "description": "Buy No More Room In Hell 2 - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "55fe704d6a",
@@ -67,10 +89,15 @@
    "discount": 21,
    "link": "https://www.instant-gaming.com/en/22936-buy-final-fantasy-resonance-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Final Fantasy Resonance - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "e098db4dbd",
@@ -82,10 +109,15 @@
    "discount": 28,
    "link": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy EA Sports FC 27 - PC (EA App) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "421c4d1629",
@@ -97,10 +129,15 @@
    "discount": 14,
    "link": "https://www.instant-gaming.com/en/14129-buy-enshrouded-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Enshrouded - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "31f9c83180",
@@ -112,10 +149,15 @@
    "discount": 28,
    "link": "https://www.instant-gaming.com/en/16888-buy-permafrost-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Permafrost - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "a6c54fc56d",
@@ -127,10 +169,15 @@
    "discount": 43,
    "link": "https://www.instant-gaming.com/en/21430-buy-alchemy-factory-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Alchemy Factory - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "66821cec79",
@@ -142,10 +189,15 @@
    "discount": 43,
    "link": "https://www.instant-gaming.com/en/23241-buy-farming-simulator-25-beans-and-alpacas-pc-mac-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Farming Simulator 25: Beans & Alpacas - PC & Mac (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "87076e0c6d",
@@ -157,11 +209,16 @@
    "discount": 17,
    "link": "https://www.instant-gaming.com/en/22978-buy-call-of-duty-modern-warfare-4-vault-edition-upgrade-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Call of Duty: Modern Warfare 4 - Vault Edition Upgrade - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "Xbox",
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "7e98f7d50b",
@@ -173,11 +230,16 @@
    "discount": 30,
    "link": "https://www.instant-gaming.com/en/22994-buy-fable-premium-edition-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Pre-order Fable Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price !",
    "platforms": [
     "Xbox",
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "2a9a684874",
@@ -189,10 +251,15 @@
    "discount": 35,
    "link": "https://www.instant-gaming.com/en/24307-buy-project-motor-racing-world-endurance-pack-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Pre-order Project Motor Racing: World Endurance Pack - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price !",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "b619bac48c",
@@ -204,10 +271,15 @@
    "discount": 21,
    "link": "https://www.instant-gaming.com/en/22734-buy-dragon-quest-monsters-the-withered-world-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Pre-order Dragon Quest Monsters: The Withered World - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price !",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "fb03c9596a",
@@ -219,12 +291,17 @@
    "discount": 7,
    "link": "https://www.instant-gaming.com/en/11038-buy-xbox-gift-card-75eur-eur75-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-europe/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy XBOX Gift Card 75\u20ac (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "Xbox",
     "PC",
     "Gift Cards"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "bfe6d8d425",
@@ -236,10 +313,15 @@
    "discount": 10,
    "link": "https://www.instant-gaming.com/en/22210-buy-the-legend-of-zelda-ocarina-of-time-switch-2-nintendo-eshop/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy The Legend of Zelda: Ocarina of Time - Switch 2 cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "Nintendo"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "49a231bc96",
@@ -251,10 +333,15 @@
    "discount": 95,
    "link": "https://www.instant-gaming.com/en/7447-buy-star-renegades-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Star Renegades - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "a4ddc609fd",
@@ -266,10 +353,15 @@
    "discount": 72,
    "link": "https://www.instant-gaming.com/en/5155-buy-doom-eternal-deluxe-edition-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Doom Eternal Deluxe Edition - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "a56d395930",
@@ -281,10 +373,15 @@
    "discount": 82,
    "link": "https://www.instant-gaming.com/en/13288-buy-remnant-2-pc-game-steam-europe-and-us-and-canada/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Remnant 2 - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "b6f62d47c5",
@@ -296,11 +393,16 @@
    "discount": 8,
    "link": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy PlayStation Store gift card 10$ cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PlayStation",
     "Gift Cards"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "75c68b800a",
@@ -312,10 +414,15 @@
    "discount": 41,
    "link": "https://www.instant-gaming.com/en/7913-buy-onimusha-way-of-the-sword-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Onimusha: Way of the Sword - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   },
   {
    "id": "f44787b619",
@@ -327,10 +434,15 @@
    "discount": 47,
    "link": "https://www.instant-gaming.com/en/9000-buy-resident-evil-requiem-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
+   "featured": false,
    "description": "Buy Resident Evil Requiem - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "PC"
-   ]
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
   }
  ]
 }
