@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Game Deals - Best Discounts & Promos | GameNomad</title>
-  <meta name="description" content="Discover hand-picked game deals, discounts, and verified promos for PC, Xbox, PlayStation, and Nintendo."/>
+  <title>Game Deals - Verified Discounts, Pre-orders & Daily Deals | GameNomad</title>
+  <meta name="description" content="Discover hand-picked game deals, daily flash sales, upcoming pre-orders, and verified promos for PC, Xbox, PlayStation, and Nintendo."/>
   <link rel="icon" href="logo.svg"/>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
@@ -29,6 +29,7 @@
       --discount: #FF3B62;
       --cyan: #00E5FF;
       --green: #10B981;
+      --orange: #FF7A00;
       --radius-sm: 8px;
       --radius-md: 14px;
       --radius-lg: 20px;
@@ -84,9 +85,7 @@
       height: 36px;
       filter: drop-shadow(0 0 10px var(--primary-glow));
     }
-    .brand span b {
-      color: var(--accent);
-    }
+    .brand span b { color: var(--accent); }
 
     /* Search */
     .search-box {
@@ -139,10 +138,7 @@
       gap: 12px;
       margin-left: auto;
     }
-    .social-pills {
-      display: flex;
-      gap: 8px;
-    }
+    .social-pills { display: flex; gap: 8px; }
     .social-btn {
       padding: 7px 12px;
       background: var(--panel);
@@ -261,6 +257,16 @@
       background: rgba(124, 92, 255, 0.2);
       border-color: var(--primary);
       color: #D3C5FF;
+    }
+    .badge.daily-pill {
+      background: rgba(255, 122, 0, 0.2);
+      border-color: var(--orange);
+      color: #FFAE66;
+    }
+    .badge.preorder-pill {
+      background: rgba(0, 229, 255, 0.15);
+      border-color: var(--cyan);
+      color: var(--cyan);
     }
     .badge.discount-pill {
       background: var(--discount);
@@ -514,10 +520,7 @@
       align-items: center;
       gap: 8px;
     }
-    .sort-label {
-      font-size: 13px;
-      color: var(--mute);
-    }
+    .sort-label { font-size: 13px; color: var(--mute); }
     .sort-select {
       background: var(--panel);
       border: 1px solid var(--line);
@@ -529,9 +532,7 @@
       cursor: pointer;
       transition: var(--transition);
     }
-    .sort-select:focus {
-      border-color: var(--primary);
-    }
+    .sort-select:focus { border-color: var(--primary); }
 
     /* Games Grid */
     .games-grid {
@@ -568,9 +569,7 @@
       transition: transform 0.4s ease;
       display: block;
     }
-    .game-card:hover .card-thumb {
-      transform: scale(1.05);
-    }
+    .game-card:hover .card-thumb { transform: scale(1.05); }
     .card-overlay-badge {
       position: absolute;
       top: 10px;
@@ -627,9 +626,7 @@
       overflow: hidden;
       cursor: pointer;
     }
-    .card-title:hover {
-      color: var(--accent);
-    }
+    .card-title:hover { color: var(--accent); }
 
     .card-desc {
       font-size: 12px;
@@ -700,11 +697,7 @@
       font-size: 20px;
       margin-bottom: 8px;
     }
-    .empty-state p {
-      color: var(--mute);
-      font-size: 14px;
-      margin-bottom: 18px;
-    }
+    .empty-state p { color: var(--mute); font-size: 14px; margin-bottom: 18px; }
 
     /* Modal Dialog */
     dialog#dlg {
@@ -791,6 +784,119 @@
       line-height: 1.4;
     }
 
+    /* DEAL SPOTLIGHT POP-UP MODAL */
+    .spotlight-popup {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 100;
+      max-width: 420px;
+      width: calc(100vw - 48px);
+      background: var(--panel);
+      border: 2px solid var(--accent);
+      box-shadow: 0 20px 50px rgba(0,0,0,0.7), 0 0 30px var(--accent-glow);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      display: none;
+      animation: popupSlideIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    @keyframes popupSlideIn {
+      from { transform: translateY(40px) scale(0.95); opacity: 0; }
+      to { transform: translateY(0) scale(1); opacity: 1; }
+    }
+    .spotlight-header {
+      background: linear-gradient(135deg, rgba(255, 181, 71, 0.2), rgba(255, 59, 98, 0.2));
+      border-bottom: 1px solid var(--line);
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .spotlight-badge {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: 0.5px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .spotlight-close {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--mute);
+      font-size: 13px;
+      cursor: pointer;
+    }
+    .spotlight-close:hover { color: #fff; background: var(--discount); }
+    .spotlight-body {
+      padding: 16px;
+      display: flex;
+      gap: 14px;
+      align-items: center;
+    }
+    .spotlight-thumb {
+      width: 100px;
+      aspect-ratio: 16/9;
+      border-radius: var(--radius-sm);
+      background-size: cover;
+      background-position: center;
+      flex-shrink: 0;
+      border: 1px solid var(--line);
+    }
+    .spotlight-info {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .spotlight-title {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .spotlight-pricing {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+    }
+    .spotlight-price {
+      font-family: 'Chakra Petch', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    .spotlight-cta {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      background: linear-gradient(135deg, #FFB547, #FF7A00);
+      color: #090B14;
+      font-weight: 800;
+      font-size: 13px;
+      padding: 8px 14px;
+      border-radius: var(--radius-sm);
+      margin-top: 4px;
+      transition: var(--transition);
+      cursor: pointer;
+    }
+    .spotlight-cta:hover {
+      box-shadow: 0 4px 14px var(--accent-glow);
+      transform: translateY(-1px);
+    }
+
     /* Footer */
     footer {
       background: var(--bg-surface);
@@ -811,17 +917,9 @@
       gap: 18px;
       flex-wrap: wrap;
     }
-    .footer-links a:hover {
-      color: var(--accent);
-    }
-    .footer-disclosure {
-      line-height: 1.6;
-      max-width: 800px;
-    }
-    .footer-copy {
-      font-size: 12px;
-      color: #636D8E;
-    }
+    .footer-links a:hover { color: var(--accent); }
+    .footer-disclosure { line-height: 1.6; max-width: 800px; }
+    .footer-copy { font-size: 12px; color: #636D8E; }
 
     @media (prefers-reduced-motion: reduce) {
       * { transition: none !important; animation: none !important; }
@@ -897,6 +995,24 @@
     <div class="dlg-inner" id="dlg-content"></div>
   </dialog>
 
+  <!-- Deal Spotlight Pop-up Modal -->
+  <div class="spotlight-popup" id="spotlight-popup" role="dialog" aria-label="Deal Spotlight">
+    <div class="spotlight-header">
+      <span class="spotlight-badge" id="spotlight-badge">⚡ SPECIAL DEAL SPOTLIGHT</span>
+      <button class="spotlight-close" id="spotlight-close" aria-label="Dismiss spotlight">✕</button>
+    </div>
+    <div class="spotlight-body">
+      <div class="spotlight-thumb" id="spotlight-thumb"></div>
+      <div class="spotlight-info">
+        <h4 class="spotlight-title" id="spotlight-title">Game Title</h4>
+        <div class="spotlight-pricing" id="spotlight-pricing"></div>
+        <a class="spotlight-cta" id="spotlight-cta" href="#" target="_blank" rel="sponsored noopener">
+          Claim Deal Now 🚀
+        </a>
+      </div>
+    </div>
+  </div>
+
   <!-- Footer -->
   <footer>
     <div class="footer-inner">
@@ -921,7 +1037,7 @@
 
     const PLATFORMS_LIST = ["PC", "Xbox", "PlayStation", "Nintendo", "Gift Cards"];
 
-    let DATA = { games: [], trending: [], site: {}, disclosure: "" };
+    let DATA = { games: [], trending: [], site: {}, disclosure: "", popup: {} };
     let currentCategory = "all";
     let searchQuery = "";
     let sortBy = "discount";
@@ -932,7 +1048,6 @@
     // Format currency price
     function formatPrice(val, store) {
       if (val == null || isNaN(val)) return null;
-      // Default to EUR or USD based on store / values
       const symbol = store === "instantgaming" ? "€" : "$";
       return `${symbol}${Number(val).toFixed(2)}`;
     }
@@ -941,8 +1056,11 @@
     function gameMatchesCategory(game, cat) {
       if (cat === "all") return true;
       if (cat === "sale") return !!(game.discount && game.discount > 0);
+      if (cat === "daily-deals" || cat === "daily") return !!game.daily_deal;
+      if (cat === "preorders" || cat === "preorder") return !!game.preorder;
+      if (cat === "upcoming") return !!game.upcoming;
       if (cat === "wish") return !!game.wishlist;
-      if (cat === "instantgaming" || cat === "indiegala") return game.store === cat;
+      if (cat === "instantgaming" || cat === "indiegala" || cat === "steam" || cat === "epic" || cat === "gog") return game.store === cat;
       return (game.platforms || []).some(p => p.toLowerCase() === cat.toLowerCase());
     }
 
@@ -961,14 +1079,17 @@
       return [...trendingGames, ...remaining].slice(0, 4);
     }
 
-    // Render Navigation Tabs
+    // Render Navigation Tabs (including Daily Deals, Pre-orders, Upcoming)
     function renderTabs() {
       const tabs = [
         { id: "all", label: "🔥 All Deals" },
-        { id: "sale", label: "⚡ Big Sales" }
+        { id: "daily-deals", label: "⚡ Daily Deals" },
+        { id: "preorders", label: "⏳ Pre-orders" },
+        { id: "upcoming", label: "🚀 Upcoming" },
+        { id: "sale", label: "💥 Big Sales" }
       ];
 
-      // Add platform tabs if games exist
+      // Add platform tabs
       PLATFORMS_LIST.forEach(p => {
         const count = DATA.games.filter(g => gameMatchesCategory(g, p)).length;
         if (count > 0) {
@@ -983,6 +1104,9 @@
       if (DATA.games.some(g => g.store === "indiegala")) {
         tabs.push({ id: "indiegala", label: "IndieGala" });
       }
+      if (DATA.games.some(g => g.store === "steam")) {
+        tabs.push({ id: "steam", label: "Steam" });
+      }
 
       $("tabs-container").innerHTML = tabs.map(t => {
         const count = t.count ?? DATA.games.filter(g => gameMatchesCategory(g, t.id)).length;
@@ -993,12 +1117,11 @@
       }).join("");
     }
 
-    // Render Carousel
+    // Render Carousel (4 Max)
     function renderCarousel() {
       featuredGames = getCarouselGames();
       const wrap = $("carousel-section");
 
-      // Hide carousel if search is active or no featured games
       if (!featuredGames.length || searchQuery.trim().length > 0) {
         wrap.style.display = "none";
         clearInterval(carouselTimer);
@@ -1009,7 +1132,6 @@
       const total = featuredGames.length;
       if (activeSlideIndex >= total) activeSlideIndex = 0;
 
-      // Track slides HTML
       $("carousel-track").innerHTML = featuredGames.map((g, i) => {
         const isActive = i === activeSlideIndex ? "active" : "";
         const formattedPrice = formatPrice(g.price, g.store);
@@ -1022,7 +1144,7 @@
           `<span class="badge">${esc(p)}</span>`
         ).join("");
 
-        const storeLabel = g.store === "instantgaming" ? "Instant Gaming" : (g.store === "indiegala" ? "IndieGala" : g.store);
+        const storeLabel = g.store === "instantgaming" ? "Instant Gaming" : (g.store === "indiegala" ? "IndieGala" : (g.store === "steam" ? "Steam" : g.store));
 
         return `
           <div class="carousel-slide ${isActive}" style="background-image: url('${esc(g.image)}')" data-index="${i}">
@@ -1030,6 +1152,8 @@
             <div class="carousel-content">
               <div class="badge-row">
                 <span class="badge featured-tag">⭐ Featured Deal</span>
+                ${g.daily_deal ? `<span class="badge daily-pill">⚡ Daily Deal</span>` : ""}
+                ${g.preorder ? `<span class="badge preorder-pill">⏳ Pre-order</span>` : ""}
                 ${g.discount ? `<span class="badge discount-pill">-${g.discount}% OFF</span>` : ""}
                 <span class="badge store-tag">${esc(storeLabel)}</span>
                 ${platformBadges}
@@ -1058,7 +1182,6 @@
         `;
       }).join("");
 
-      // Counter & Dots
       $("carousel-counter").textContent = `0${activeSlideIndex + 1} / 0${total}`;
       $("carousel-dots").innerHTML = featuredGames.map((_, i) => 
         `<span class="carousel-dot ${i === activeSlideIndex ? "active" : ""}" data-slide="${i}"></span>`
@@ -1115,13 +1238,16 @@
         filtered.sort((a, b) => (a.title || "").localeCompare(b.title || ""));
       }
 
-      // Update Header Text
       const catTitles = {
         all: "All Game Deals",
-        sale: "Top Discounted Deals",
+        "daily-deals": "⚡ Instant Gaming & Store Daily Deals",
+        preorders: "⏳ Pre-orders & Guaranteed Day 1 Keys",
+        upcoming: "🚀 Upcoming Game Releases",
+        sale: "💥 Top Discounted Deals",
         wish: "Wishlist Games",
         instantgaming: "Instant Gaming Deals",
-        indiegala: "IndieGala Deals"
+        indiegala: "IndieGala Deals",
+        steam: "Steam Deals"
       };
       $("category-title").textContent = catTitles[currentCategory] || `${currentCategory} Deals`;
       $("results-count").textContent = `(${filtered.length} found)`;
@@ -1129,8 +1255,8 @@
       if (!filtered.length) {
         $("games-grid").innerHTML = `
           <div class="empty-state">
-            <h3>No games found</h3>
-            <p>Try adjusting your search terms or filter platform.</p>
+            <h3>No games found in this category</h3>
+            <p>Try switching categories or clearing search filters.</p>
             <button class="btn-secondary" onclick="resetFilters()">Reset All Filters</button>
           </div>
         `;
@@ -1140,7 +1266,7 @@
       $("games-grid").innerHTML = filtered.map(g => {
         const formattedPrice = formatPrice(g.price, g.store);
         const formattedOldPrice = formatPrice(g.old_price, g.store);
-        const storeLabel = g.store === "instantgaming" ? "Instant Gaming" : (g.store === "indiegala" ? "IndieGala" : g.store);
+        const storeLabel = g.store === "instantgaming" ? "Instant Gaming" : (g.store === "indiegala" ? "IndieGala" : (g.store === "steam" ? "Steam" : g.store));
 
         const platformsHtml = (g.platforms || []).map(p => 
           `<span class="platform-pill">${esc(p)}</span>`
@@ -1153,7 +1279,11 @@
                 ? `<img class="card-thumb" src="${esc(g.image)}" alt="${esc(g.title)}" loading="lazy" onerror="this.src='logo.svg'"/>`
                 : `<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--mute)">No Image</div>`
               }
-              ${g.discount ? `<div class="card-overlay-badge badge discount-pill">-${g.discount}%</div>` : ""}
+              <div class="card-overlay-badge">
+                ${g.daily_deal ? `<span class="badge daily-pill">⚡ DAILY</span>` : ""}
+                ${g.preorder ? `<span class="badge preorder-pill">⏳ PRE-ORDER</span>` : ""}
+                ${g.discount ? `<span class="badge discount-pill">-${g.discount}%</span>` : ""}
+              </div>
               <div class="card-store-badge">${esc(storeLabel)}</div>
             </div>
 
@@ -1185,7 +1315,7 @@
 
       const formattedPrice = formatPrice(g.price, g.store);
       const formattedOldPrice = formatPrice(g.old_price, g.store);
-      const storeLabel = g.store === "instantgaming" ? "Instant Gaming" : (g.store === "indiegala" ? "IndieGala" : g.store);
+      const storeLabel = g.store === "instantgaming" ? "Instant Gaming" : (g.store === "indiegala" ? "IndieGala" : (g.store === "steam" ? "Steam" : g.store));
       const platformsHtml = (g.platforms || []).map(p => `<span class="badge">${esc(p)}</span>`).join("");
 
       $("dlg-content").innerHTML = `
@@ -1193,6 +1323,8 @@
         <div class="dlg-thumb" style="background-image: url('${esc(g.image || "")}')"></div>
         <div class="dlg-body">
           <div class="badge-row">
+            ${g.daily_deal ? `<span class="badge daily-pill">⚡ Daily Deal</span>` : ""}
+            ${g.preorder ? `<span class="badge preorder-pill">⏳ Pre-order</span>` : ""}
             ${g.discount ? `<span class="badge discount-pill">-${g.discount}% OFF</span>` : ""}
             <span class="badge store-tag">${esc(storeLabel)}</span>
             ${platformsHtml}
@@ -1218,6 +1350,56 @@
 
       $("dlg").showModal();
     };
+
+    // Deal Spotlight Pop-up Initialization
+    function initSpotlightPopup() {
+      const popCfg = DATA.popup || {};
+      if (!popCfg.enabled && popCfg.enabled !== undefined) return;
+      if (sessionStorage.getItem("spotlight_dismissed")) return;
+
+      const type = popCfg.type || "discount";
+      let target = null;
+
+      if (type === "custom" && popCfg.game_id) {
+        target = DATA.games.find(g => g.id === popCfg.game_id);
+      } else if (type === "daily_deal") {
+        target = DATA.games.find(g => g.daily_deal && g.image) || DATA.games.find(g => g.daily_deal);
+      } else if (type === "preorder") {
+        target = DATA.games.find(g => g.preorder && g.image) || DATA.games.find(g => g.preorder);
+      }
+
+      // Default or fallback to biggest discount
+      if (!target) {
+        target = [...DATA.games].filter(g => g.image).sort((a,b) => (b.discount || 0) - (a.discount || 0))[0];
+      }
+
+      if (!target) return;
+
+      const formattedPrice = formatPrice(target.price, target.store);
+      const formattedOldPrice = formatPrice(target.old_price, target.store);
+
+      $("spotlight-badge").innerHTML = esc(popCfg.title || "⚡ SPECIAL DEAL SPOTLIGHT");
+      $("spotlight-title").textContent = target.title;
+      $("spotlight-title").title = target.title;
+      $("spotlight-thumb").style.backgroundImage = target.image ? `url('${esc(target.image)}')` : "none";
+      $("spotlight-pricing").innerHTML = `
+        <span class="spotlight-price">${formattedPrice || "Check Store"}</span>
+        ${formattedOldPrice ? `<span style="font-size:12px;color:var(--mute);text-decoration:line-through">${formattedOldPrice}</span>` : ""}
+        ${target.discount ? `<span style="font-size:11px;color:#fff;background:var(--discount);padding:1px 6px;border-radius:4px;font-weight:700">-${target.discount}%</span>` : ""}
+      `;
+      $("spotlight-cta").href = target.link;
+
+      // Show popup with a slight delay
+      setTimeout(() => {
+        const p = $("spotlight-popup");
+        if (p) p.style.display = "block";
+      }, 1600);
+
+      $("spotlight-close").onclick = () => {
+        $("spotlight-popup").style.display = "none";
+        sessionStorage.setItem("spotlight_dismissed", "1");
+      };
+    }
 
     function resetFilters() {
       currentCategory = "all";
@@ -1274,12 +1456,10 @@
       startCarouselAutoplay();
     });
 
-    // Pause autoplay on carousel hover
     const wrapEl = $("carousel-wrap");
     wrapEl.addEventListener("mouseenter", () => clearInterval(carouselTimer));
     wrapEl.addEventListener("mouseleave", () => startCarouselAutoplay());
 
-    // Touch Swipe Support for Carousel
     let touchStartX = 0;
     wrapEl.addEventListener("touchstart", e => {
       touchStartX = e.changedTouches[0].screenX;
@@ -1295,18 +1475,14 @@
       startCarouselAutoplay();
     }, { passive: true });
 
-    // Keyboard navigation
     document.addEventListener("keydown", e => {
-      if (e.key === "Escape" && $("dlg").open) {
-        $("dlg").close();
-      }
+      if (e.key === "Escape" && $("dlg").open) $("dlg").close();
       if ($("carousel-section").style.display !== "none" && !$("dlg").open && document.activeElement.tagName !== "INPUT") {
         if (e.key === "ArrowLeft") goToSlide(activeSlideIndex - 1);
         if (e.key === "ArrowRight") goToSlide(activeSlideIndex + 1);
       }
     });
 
-    // Close dialog when clicking on backdrop
     $("dlg").addEventListener("click", e => {
       if (e.target === $("dlg")) $("dlg").close();
     });
@@ -1321,16 +1497,16 @@
         DATA = data;
         const brandName = data.site?.name || "GameNomad";
         $("site-brand-name").innerHTML = `${esc(brandName)} Deals`;
-        document.title = `${esc(brandName)} - Daily Game Deals & Discounts`;
+        document.title = `${esc(brandName)} - Daily Deals, Pre-orders & Promos`;
 
-        // Render Socials
+        // Socials
         const socials = data.site?.socials || {};
         $("social-links").innerHTML = Object.entries(socials)
           .filter(([_, url]) => !!url)
           .map(([name, url]) => `<a class="social-btn" href="${esc(url)}" target="_blank" rel="noopener">${esc(name.toUpperCase())}</a>`)
           .join("");
 
-        // Render Legal Links
+        // Legal Links
         $("legal-links").innerHTML = LEGAL_PAGES.map(([slug, title]) => 
           `<a href="${slug}.html">${esc(title)}</a>`
         ).join("");
@@ -1340,6 +1516,7 @@
         renderTabs();
         renderCarousel();
         renderGrid();
+        initSpotlightPopup();
       })
       .catch(err => {
         console.error("Failed to load games.json:", err);
