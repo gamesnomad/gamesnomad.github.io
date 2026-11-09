@@ -1,0 +1,336 @@
+{
+ "site": {
+  "name": "GameNomad",
+  "socials": {
+   "facebook": "https://web.facebook.com/gamesnomad"
+  }
+ },
+ "disclosure": "Affiliate link: I may earn a commission at no extra cost to you.",
+ "trending": [
+  "49a231bc96",
+  "a56d395930",
+  "a4ddc609fd",
+  "89f41b6351"
+ ],
+ "games": [
+  {
+   "id": "a8d0d68a4b",
+   "title": "Minecraft: Java + Bedrock Edition Minecraft for PC",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/442/616x353/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1787555845",
+   "price": 16.99,
+   "old_price": 30.0,
+   "discount": 43,
+   "link": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": null,
+   "platforms": null
+  },
+  {
+   "id": "422d9298d4",
+   "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/16809/616x353/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792479050",
+   "price": 61.99,
+   "old_price": 80.0,
+   "discount": 23,
+   "link": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "Xbox",
+    "PC"
+   ]
+  },
+  {
+   "id": "89f41b6351",
+   "title": "No More Room In Hell 2 - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/12335/616x353/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1787643061",
+   "price": 11.99,
+   "old_price": 29.0,
+   "discount": 59,
+   "link": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/?igr=gamenomadbot",
+   "wishlist": true,
+   "description": "Buy No More Room In Hell 2 - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "55fe704d6a",
+   "title": "Final Fantasy Resonance - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/22936/616x353/final-fantasy-resonance-pc-steam-cover.jpg?v=1793275643",
+   "price": 39.49,
+   "old_price": 50.0,
+   "discount": 21,
+   "link": "https://www.instant-gaming.com/en/22936-buy-final-fantasy-resonance-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Final Fantasy Resonance - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "e098db4dbd",
+   "title": "EA Sports FC 27 - PC (EA App)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/21656/616x353/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790312899",
+   "price": 50.39,
+   "old_price": 70.0,
+   "discount": 28,
+   "link": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy EA Sports FC 27 - PC (EA App) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "421c4d1629",
+   "title": "Enshrouded - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/14129/616x353/enshrouded-pc-steam-cover.jpg?v=1792590729",
+   "price": 34.59,
+   "old_price": 40.0,
+   "discount": 14,
+   "link": "https://www.instant-gaming.com/en/14129-buy-enshrouded-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Enshrouded - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "31f9c83180",
+   "title": "Permafrost - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/16888/616x353/permafrost-pc-steam-cover.jpg?v=1791875715",
+   "price": 17.99,
+   "old_price": 25.0,
+   "discount": 28,
+   "link": "https://www.instant-gaming.com/en/16888-buy-permafrost-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Permafrost - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "a6c54fc56d",
+   "title": "Alchemy Factory - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/21430/616x353/alchemy-factory-pc-steam-cover.jpg?v=1770212201",
+   "price": 9.69,
+   "old_price": 17.0,
+   "discount": 43,
+   "link": "https://www.instant-gaming.com/en/21430-buy-alchemy-factory-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Alchemy Factory - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "66821cec79",
+   "title": "Farming Simulator 25: Beans & Alpacas - PC & Mac (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/23241/616x353/farming-simulator-25-beans-and-alpacas-pc-mac-steam-cover.jpg?v=1793112717",
+   "price": 16.99,
+   "old_price": 30.0,
+   "discount": 43,
+   "link": "https://www.instant-gaming.com/en/23241-buy-farming-simulator-25-beans-and-alpacas-pc-mac-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Farming Simulator 25: Beans & Alpacas - PC & Mac (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "87076e0c6d",
+   "title": "Call of Duty: Modern Warfare 4 - Vault Edition Upgrade - PC & XBOX Series X|S (Microsoft Store)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/22978/616x353/call-of-duty-modern-warfare-4-vault-edition-upgrade-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792395051",
+   "price": 24.99,
+   "old_price": 30.0,
+   "discount": 17,
+   "link": "https://www.instant-gaming.com/en/22978-buy-call-of-duty-modern-warfare-4-vault-edition-upgrade-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Call of Duty: Modern Warfare 4 - Vault Edition Upgrade - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "Xbox",
+    "PC"
+   ]
+  },
+  {
+   "id": "7e98f7d50b",
+   "title": "Fable Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/22994/616x353/fable-premium-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1782831849",
+   "price": 69.79,
+   "old_price": 100.0,
+   "discount": 30,
+   "link": "https://www.instant-gaming.com/en/22994-buy-fable-premium-edition-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Pre-order Fable Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price !",
+   "platforms": [
+    "Xbox",
+    "PC"
+   ]
+  },
+  {
+   "id": "2a9a684874",
+   "title": "Project Motor Racing: World Endurance Pack - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/24307/616x353/project-motor-racing-world-endurance-pack-pc-steam-cover.jpg?v=1793698168",
+   "price": 12.99,
+   "old_price": 20.0,
+   "discount": 35,
+   "link": "https://www.instant-gaming.com/en/24307-buy-project-motor-racing-world-endurance-pack-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Pre-order Project Motor Racing: World Endurance Pack - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price !",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "b619bac48c",
+   "title": "Dragon Quest Monsters: The Withered World - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/22734/616x353/dragon-quest-monsters-the-withered-world-pc-steam-cover.jpg?v=1789392031",
+   "price": 47.49,
+   "old_price": 60.0,
+   "discount": 21,
+   "link": "https://www.instant-gaming.com/en/22734-buy-dragon-quest-monsters-the-withered-world-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Pre-order Dragon Quest Monsters: The Withered World - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price !",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "fb03c9596a",
+   "title": "XBOX Gift Card 75\u20ac (Microsoft Store) - Europe",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/11038/616x353/xbox-gift-card-75eur-eur75-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-europe-cover.jpg?v=1745404395",
+   "price": 69.69,
+   "old_price": 75.0,
+   "discount": 7,
+   "link": "https://www.instant-gaming.com/en/11038-buy-xbox-gift-card-75eur-eur75-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-europe/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy XBOX Gift Card 75\u20ac (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "Xbox",
+    "PC",
+    "Gift Cards"
+   ]
+  },
+  {
+   "id": "bfe6d8d425",
+   "title": "The Legend of Zelda: Ocarina of Time - Switch 2 - Europe",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/22210/616x353/the-legend-of-zelda-ocarina-of-time-switch-2-nintendo-eshop-cover.jpg?v=1790857913",
+   "price": 54.29,
+   "old_price": 60.0,
+   "discount": 10,
+   "link": "https://www.instant-gaming.com/en/22210-buy-the-legend-of-zelda-ocarina-of-time-switch-2-nintendo-eshop/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy The Legend of Zelda: Ocarina of Time - Switch 2 cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "Nintendo"
+   ]
+  },
+  {
+   "id": "49a231bc96",
+   "title": "Star Renegades - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/7447/616x353/star-renegades-pc-steam-cover.jpg?v=1777448094",
+   "price": 1.19,
+   "old_price": 25.0,
+   "discount": 95,
+   "link": "https://www.instant-gaming.com/en/7447-buy-star-renegades-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Star Renegades - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "a4ddc609fd",
+   "title": "Doom Eternal Deluxe Edition - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/5155/616x353/doom-eternal-deluxe-edition-pc-steam-cover.jpg?v=1785241455",
+   "price": 13.99,
+   "old_price": 50.0,
+   "discount": 72,
+   "link": "https://www.instant-gaming.com/en/5155-buy-doom-eternal-deluxe-edition-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Doom Eternal Deluxe Edition - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "a56d395930",
+   "title": "Remnant 2 - PC (Steam) - Europe & USA & Canada",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/13288/616x353/remnant-2-pc-game-steam-europe-and-us-and-canada-cover.jpg?v=1734966392",
+   "price": 8.79,
+   "old_price": 50.0,
+   "discount": 82,
+   "link": "https://www.instant-gaming.com/en/13288-buy-remnant-2-pc-game-steam-europe-and-us-and-canada/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Remnant 2 - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "b6f62d47c5",
+   "title": "PlayStation Store gift card 10$ - United States",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/4620/616x353/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1719822380",
+   "price": 8.29,
+   "old_price": 9.0,
+   "discount": 8,
+   "link": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy PlayStation Store gift card 10$ cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PlayStation",
+    "Gift Cards"
+   ]
+  },
+  {
+   "id": "75c68b800a",
+   "title": "Onimusha: Way of the Sword - PC (Steam) - Europe",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/7913/616x353/onimusha-way-of-the-sword-pc-steam-cover.jpg?v=1791363429",
+   "price": 40.99,
+   "old_price": 70.0,
+   "discount": 41,
+   "link": "https://www.instant-gaming.com/en/7913-buy-onimusha-way-of-the-sword-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Onimusha: Way of the Sword - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  },
+  {
+   "id": "f44787b619",
+   "title": "Resident Evil Requiem - PC (Steam) - Europe",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/9000/616x353/resident-evil-requiem-pc-steam-cover.jpg?v=1776244233",
+   "price": 37.09,
+   "old_price": 70.0,
+   "discount": 47,
+   "link": "https://www.instant-gaming.com/en/9000-buy-resident-evil-requiem-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "description": "Buy Resident Evil Requiem - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ]
+  }
+ ]
+}
