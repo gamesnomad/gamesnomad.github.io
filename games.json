@@ -10,8 +10,8 @@
  "trending": [
   "524fdba56b",
   "49a231bc96",
-  "7dbbd6b48f",
-  "479de0b639"
+  "43d85d9e95",
+  "fb3affed5f"
  ],
  "popup": {
   "enabled": true,
@@ -36,10 +36,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "422d9298d4",
@@ -57,10 +57,10 @@
     "Xbox",
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "89f41b6351",
@@ -77,10 +77,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "55fe704d6a",
@@ -97,10 +97,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "e098db4dbd",
@@ -117,19 +117,19 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "421c4d1629",
    "title": "Enshrouded - PC (Steam)",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/14129/616x353/enshrouded-pc-steam-cover.jpg?v=1792590729",
-   "price": 34.59,
+   "price": 34.69,
    "old_price": 40.0,
-   "discount": 14,
+   "discount": 13,
    "link": "https://www.instant-gaming.com/en/14129-buy-enshrouded-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -137,10 +137,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "31f9c83180",
@@ -157,10 +157,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "a6c54fc56d",
@@ -177,10 +177,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "66821cec79",
@@ -197,10 +197,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "87076e0c6d",
@@ -218,10 +218,10 @@
     "Xbox",
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "7e98f7d50b",
@@ -239,10 +239,10 @@
     "Xbox",
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "2a9a684874",
@@ -259,10 +259,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "b619bac48c",
@@ -301,10 +301,10 @@
     "PC",
     "Gift Cards"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "bfe6d8d425",
@@ -321,10 +321,10 @@
    "platforms": [
     "Nintendo"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "49a231bc96",
@@ -341,10 +341,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "a4ddc609fd",
@@ -361,10 +361,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "a56d395930",
@@ -381,10 +381,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "b6f62d47c5",
@@ -402,10 +402,10 @@
     "PlayStation",
     "Gift Cards"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "75c68b800a",
@@ -422,10 +422,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "f44787b619",
@@ -442,19 +442,19 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "11a629868f",
    "title": "Roblox - 1000 Robux",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/22952/616x353/roblox-1000-robux-pc-cover.jpg?v=1781173294",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 10.49,
+   "old_price": 12.0,
+   "discount": 13,
    "link": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -462,19 +462,19 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "7c60fd0440",
    "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/4211/616x353/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1768236372",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 9.79,
+   "old_price": 30.0,
+   "discount": 67,
    "link": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -482,19 +482,19 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "fb3affed5f",
    "title": "We Were Here Too - PC & Mac (Steam)",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/5369/616x353/we-were-here-too-pc-mac-game-steam-cover.jpg?v=1723473475",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 0.99,
+   "old_price": 10.0,
+   "discount": 90,
    "link": "https://www.instant-gaming.com/en/5369-buy-we-were-here-too-pc-mac-game-steam/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -502,19 +502,19 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "f3a458f70e",
    "title": "EA Sports FC 27 - 5900 FC Points - XBOX One & XBOX Series X|S",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/23881/616x353/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1788520503",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 39.49,
+   "old_price": 50.0,
+   "discount": 21,
    "link": "https://www.instant-gaming.com/en/23881-buy-ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -523,19 +523,19 @@
     "Xbox",
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "f122f14078",
    "title": "Battlefield 6 Phantom Edition - XBOX Series X|S",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/20306/616x353/battlefield-6-phantom-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1792593754",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 69.09,
+   "old_price": 110.0,
+   "discount": 37,
    "link": "https://www.instant-gaming.com/en/20306-buy-battlefield-6-phantom-edition-xbox-series-x-s-microsoft-store/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -544,19 +544,19 @@
     "Xbox",
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "43d85d9e95",
    "title": "Rain World - PC (Steam)",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/7716/616x353/rain-world-pc-steam-cover.jpg?v=1764684526",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 2.19,
+   "old_price": 24.0,
+   "discount": 91,
    "link": "https://www.instant-gaming.com/en/7716-buy-rain-world-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -564,19 +564,19 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "029d5db016",
    "title": "Graveyard Keeper 2 - PC (Steam) - Europe & USA & Canada",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/22343/616x353/graveyard-keeper-2-pc-steam-cover.jpg?v=1792070562",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 16.29,
+   "old_price": 25.0,
+   "discount": 35,
    "link": "https://www.instant-gaming.com/en/22343-buy-graveyard-keeper-2-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -584,19 +584,19 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "abfcad2dcf",
    "title": "Badlands Crew - PC (Steam) - Europe",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/19218/616x353/badlands-crew-pc-game-steam-europe-cover.jpg?v=1746176351",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 3.09,
+   "old_price": 19.0,
+   "discount": 84,
    "link": "https://www.instant-gaming.com/en/19218-buy-badlands-crew-pc-game-steam-europe/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -604,10 +604,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "170463a4b7",
@@ -854,9 +854,9 @@
    "title": "Dragon Quest Monsters: The Withered World Deluxe Edition + Advanced access - PC (Steam)",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/23344/616x353/dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam-cover.jpg?v=1785307659",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 73.99,
+   "old_price": 95.0,
+   "discount": 22,
    "link": "https://www.instant-gaming.com/en/23344-buy-dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -864,10 +864,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "6548da69a7",
@@ -1283,6 +1283,227 @@
    "featured": false,
    "description": "Official Steam key digital key available on IndieGala.",
    "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "137e3a4284",
+   "title": "Hunting Unlimited 2008",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/HuntingUnlimited2008.jpg",
+   "price": 1.74,
+   "old_price": 4.99,
+   "discount": 65,
+   "link": "https://www.indiegala.com/store/game/hunting-unlimited-2008/12530?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "4d5148d4ae",
+   "title": "Mahjongg Investigations: Under Suspicion",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/Mahjongg_Investigations_Under_Suspicion.jpg",
+   "price": 2.99,
+   "old_price": 9.99,
+   "discount": 70,
+   "link": "https://www.indiegala.com/store/game/mahjongg-investigations-under-suspicion/12540?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "87739baaac",
+   "title": "World Championship Boxing Manager",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1254860.jpg",
+   "price": 1.42,
+   "old_price": 5.69,
+   "discount": 75,
+   "link": "https://www.indiegala.com/store/game/world-championship-boxing-manager/1254860?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "06786006cd",
+   "title": "Murders in Space",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1255420.jpg",
+   "price": 2.27,
+   "old_price": 5.69,
+   "discount": 60,
+   "link": "https://www.indiegala.com/store/game/murders-in-space/1255420?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "1a5b78a586",
+   "title": "We should talk.",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1255990.jpg",
+   "price": 0.56,
+   "old_price": 5.69,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/we-should-talk/1255990?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "b018542812",
+   "title": "Super Arcade Soccer 2021",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1256710.jpg",
+   "price": 0.49,
+   "old_price": 4.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/super-arcade-soccer-2021/1256710?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "4c62686fa3",
+   "title": "Hot Dish",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/Hot_Dish.jpg",
+   "price": 1.49,
+   "old_price": 9.99,
+   "discount": 85,
+   "link": "https://www.indiegala.com/store/game/hot-dish/12570?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "f0e593c9c2",
+   "title": "The Legacy: Realm of Terror",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1257890.jpg",
+   "price": 1.42,
+   "old_price": 5.69,
+   "discount": 75,
+   "link": "https://www.indiegala.com/store/game/the-legacy-realm-of-terror/1257890?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "49d1b60b03",
+   "title": "Dr. Daisy Pet Vet",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/Dr_Daisy_PetVet.jpg",
+   "price": 2.49,
+   "old_price": 9.99,
+   "discount": 75,
+   "link": "https://www.indiegala.com/store/game/dr-daisy-pet-vet/12580?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "ff63354af8",
+   "title": "Deadly Dozen: Pacific Theater",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1267930.jpg",
+   "price": 2.86,
+   "old_price": 8.19,
+   "discount": 65,
+   "link": "https://www.indiegala.com/store/game/deadly-dozen-pacific-theater/1267930?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "9b5d850f8d",
+   "title": "Call of Duty: Modern Warfare 4 - Vault Edition - PC & XBOX Series X|S (Microsoft Store)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/22745/616x353/call-of-duty-modern-warfare-4-vault-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792479069",
+   "price": 83.49,
+   "old_price": 110.0,
+   "discount": 24,
+   "link": "https://www.instant-gaming.com/en/22745-buy-call-of-duty-modern-warfare-4-vault-edition-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Call of Duty: Modern Warfare 4 - Vault Edition - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "Xbox",
     "PC"
    ],
    "preorder": false,
