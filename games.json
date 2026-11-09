@@ -2,13 +2,14 @@
  "site": {
   "name": "GameNomad",
   "socials": {
-   "facebook": "https://web.facebook.com/gamesnomad"
+   "facebook": "https://web.facebook.com/gamesnomad",
+   "instagram": "https://www.instagram.com/gamenomadbot/"
   }
  },
  "disclosure": "Affiliate link: I may earn a commission at no extra cost to you.",
  "trending": [
-  "49a231bc96",
   "524fdba56b",
+  "49a231bc96",
   "7dbbd6b48f",
   "479de0b639"
  ],
@@ -638,7 +639,7 @@
    "discount": 92,
    "link": "https://www.indiegala.com/store/game/red-faction-triple-pack/00001_ig?ref=gamenomadbot",
    "wishlist": false,
-   "featured": false,
+   "featured": true,
    "description": "Official Steam key digital key available on IndieGala.",
    "platforms": [
     "PC"
@@ -817,6 +818,467 @@
    "old_price": 19.99,
    "discount": 60,
    "link": "https://www.indiegala.com/store/game/a-game-of-thrones-the-board-game-digital-edition/1075190?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "d8b4bee1dc",
+   "title": "Indiegala logo",
+   "store": "indiegala",
+   "image": null,
+   "price": null,
+   "old_price": null,
+   "discount": null,
+   "link": "https://www.indiegala.com/store?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Feed provided by Indiegala. Click to visit.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
+  },
+  {
+   "id": "e06db005b3",
+   "title": "Dragon Quest Monsters: The Withered World Deluxe Edition + Advanced access - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/23344/616x353/dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam-cover.jpg?v=1785307659",
+   "price": null,
+   "old_price": null,
+   "discount": null,
+   "link": "https://www.instant-gaming.com/en/23344-buy-dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Pre-order Dragon Quest Monsters: The Withered World Deluxe Edition + Advanced access - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price !",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
+  },
+  {
+   "id": "6548da69a7",
+   "title": "The Blood of Dawnwalker - PC & XBOX Series X|S (Microsoft Store)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/23584/616x353/the-blood-of-dawnwalker-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1788413831",
+   "price": null,
+   "old_price": null,
+   "discount": null,
+   "link": "https://www.instant-gaming.com/en/23584-buy-the-blood-of-dawnwalker-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy The Blood of Dawnwalker - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "Xbox",
+    "PC"
+   ],
+   "preorder": null,
+   "upcoming": null,
+   "daily_deal": null,
+   "custom": null
+  },
+  {
+   "id": "d08ee5fa83",
+   "title": "Cris Tales",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1079830.jpg",
+   "price": 3.99,
+   "old_price": 39.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/cris-tales/1079830?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "a19ee9bffe",
+   "title": "CountryBalls Heroes",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1083870.jpg",
+   "price": 1.24,
+   "old_price": 12.49,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/countryballs-heroes/1083870?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "5202d10476",
+   "title": "Vessel",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/108500_ig.jpg",
+   "price": 3.99,
+   "old_price": 4.99,
+   "discount": 20,
+   "link": "https://www.indiegala.com/store/game/vessel/108500_ig?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "bbcb4db94b",
+   "title": "Vampire: The Masquerade - Coteries of New York",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1096410.jpg",
+   "price": 1.99,
+   "old_price": 19.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/vampire-the-masquerade-coteries-of-new-york/1096410?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "da8c93d311",
+   "title": "The Forgotten Land",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1099460.jpg",
+   "price": 1.49,
+   "old_price": 14.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/the-forgotten-land/1099460?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "b2d095092b",
+   "title": "The Tree",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1102490.jpg",
+   "price": 0.79,
+   "old_price": 7.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/the-tree/1102490?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "1cee452195",
+   "title": "Evan's Remains",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1110050.jpg",
+   "price": 0.56,
+   "old_price": 5.69,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/evans-remains/1110050?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "68676cbd12",
+   "title": "Calico",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1112890.jpg",
+   "price": 1.99,
+   "old_price": 9.99,
+   "discount": 80,
+   "link": "https://www.indiegala.com/store/game/calico/1112890?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "2d83053bf9",
+   "title": "As Far As The Eye",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1119700.jpg",
+   "price": 2.09,
+   "old_price": 20.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/as-far-as-the-eye/1119700?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "e116801a18",
+   "title": "Shadowgrounds Survivor",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/11200_ig.jpg",
+   "price": 1.49,
+   "old_price": 9.99,
+   "discount": 85,
+   "link": "https://www.indiegala.com/store/game/shadowgrounds-survivor/11200_ig?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "fe88bee56f",
+   "title": "Iris and the Giant",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1127610.jpg",
+   "price": 1.49,
+   "old_price": 14.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/iris-and-the-giant/1127610?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "1531655212",
+   "title": "Guild of Ascension",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1169520.jpg",
+   "price": 1.49,
+   "old_price": 14.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/guild-of-ascension/1169520?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "6df9028bce",
+   "title": "Revita",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1175460.jpg",
+   "price": 1.69,
+   "old_price": 16.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/revita/1175460?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "76ef418439",
+   "title": "Roto Force",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1181610.jpg",
+   "price": 1.94,
+   "old_price": 7.79,
+   "discount": 75,
+   "link": "https://www.indiegala.com/store/game/roto-force/1181610?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "37d454741c",
+   "title": "Spidersaurs",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1191620.jpg",
+   "price": 4.19,
+   "old_price": 16.79,
+   "discount": 75,
+   "link": "https://www.indiegala.com/store/game/spidersaurs/1191620?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "68c545de3e",
+   "title": "Shantae and the Seven Sirens",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1191630.jpg",
+   "price": 9.99,
+   "old_price": 24.99,
+   "discount": 60,
+   "link": "https://www.indiegala.com/store/game/shantae-and-the-seven-sirens/1191630?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "d7b0918c90",
+   "title": "Red Orchestra: Ostfront 41-45",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1200_ig.jpg",
+   "price": 0.99,
+   "old_price": 3.99,
+   "discount": 75,
+   "link": "https://www.indiegala.com/store/game/red-orchestra-ostfront-41-45/1200_ig?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "2a3a6efb6b",
+   "title": "Piczle Cross Adventure",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1215320.jpg",
+   "price": 0.99,
+   "old_price": 9.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/piczle-cross-adventure/1215320?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "2efcafedf5",
+   "title": "Paper Beast",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1232570.jpg",
+   "price": 1.99,
+   "old_price": 19.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/paper-beast/1232570?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "e5f9c7c02b",
+   "title": "Fields of Glory",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1237800.jpg",
+   "price": 0.85,
+   "old_price": 5.69,
+   "discount": 85,
+   "link": "https://www.indiegala.com/store/game/fields-of-glory/1237800?ref=gamenomadbot",
    "wishlist": false,
    "featured": false,
    "description": "Official Steam key digital key available on IndieGala.",
