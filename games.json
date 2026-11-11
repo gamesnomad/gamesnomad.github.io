@@ -9,9 +9,9 @@
  "disclosure": "Affiliate link: I may earn a commission at no extra cost to you.",
  "trending": [
   "524fdba56b",
+  "f3b799ebc8",
   "49a231bc96",
-  "43d85d9e95",
-  "fb3affed5f"
+  "3a7aac61e0"
  ],
  "popup": {
   "enabled": true,
@@ -46,9 +46,9 @@
    "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/16809/616x353/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792479050",
-   "price": 61.99,
+   "price": 55.49,
    "old_price": 80.0,
-   "discount": 23,
+   "discount": 31,
    "link": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -614,9 +614,9 @@
    "title": "Shift At Midnight - PC (Steam)",
    "store": "instantgaming",
    "image": "https://gaming-cdn.com/images/products/22643/616x353/shift-at-midnight-pc-steam-cover.jpg?v=1787148921",
-   "price": null,
-   "old_price": null,
-   "discount": null,
+   "price": 8.19,
+   "old_price": 10.0,
+   "discount": 18,
    "link": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/?igr=gamenomadbot",
    "wishlist": false,
    "featured": false,
@@ -624,10 +624,10 @@
    "platforms": [
     "PC"
    ],
-   "preorder": null,
-   "upcoming": null,
-   "daily_deal": null,
-   "custom": null
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
   },
   {
    "id": "524fdba56b",
@@ -853,7 +853,7 @@
    "id": "e06db005b3",
    "title": "Dragon Quest Monsters: The Withered World Deluxe Edition + Advanced access - PC (Steam)",
    "store": "instantgaming",
-   "image": "https://gaming-cdn.com/images/products/23344/616x353/dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam-cover.jpg?v=1785307659",
+   "image": "https://gaming-cdn.com/images/products/23344/616x353/dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam-cover.jpg?v=1794232497",
    "price": 73.99,
    "old_price": 95.0,
    "discount": 22,
@@ -1504,6 +1504,649 @@
    "description": "Buy Call of Duty: Modern Warfare 4 - Vault Edition - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
    "platforms": [
     "Xbox",
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "f9d4eb2469",
+   "title": "Underground Waifus TCG",
+   "store": "epic",
+   "image": "https://cdn1.epicgames.com/spt-assets/73f3d015c38945ba90979eeed0ca7ded/underground-waifus-tcg-logo-ou3ep.png?resize=1&w=480&h=270&quality=medium",
+   "price": null,
+   "old_price": null,
+   "discount": null,
+   "link": "https://store.epicgames.com/p/underground-waifus-tcg-4c889b",
+   "wishlist": true,
+   "featured": false,
+   "description": "Welcome to Underground Waifus: Dive into the Future of TCG multiplayer with PVP Battles. Play for free this CCG and battler card game and compete, achieve quests and earn free rewards! The universe of Underground Waifus takes place in the future, corrupted by the scarcity of materials, money: stardust, and the desire for power. An eternal war between different races and more than 9 factions.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": true,
+   "daily_deal": false,
+   "custom": true
+  },
+  {
+   "id": "c4f4f095b5",
+   "title": "Robocraft 2",
+   "store": "epic",
+   "image": "https://cdn1.epicgames.com/spt-assets/3c2e51e6eebc4f5c9ef90ce5f8532cc9/robocraft-2-1kqsd.png?resize=1&w=1280&h=720&quality=medium",
+   "price": null,
+   "old_price": null,
+   "discount": null,
+   "link": "https://store.epicgames.com/p/robocraft-2-230ec9",
+   "wishlist": false,
+   "featured": false,
+   "description": "The sequel to the genre-defining game, played by over 16 million people! Experience vehicle-based online PvP destruction with limitless options, absolutely free.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": true,
+   "daily_deal": false,
+   "custom": true
+  },
+  {
+   "id": "0413dd1a04",
+   "title": "Totally Reliable Delivery Service",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1011670.jpg",
+   "price": 1.27,
+   "old_price": 14.79,
+   "discount": 91,
+   "link": "https://www.indiegala.com/store/game/totally-reliable-delivery-service/1011670?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "6776ccbbfb",
+   "title": "Table Manners",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1019450.jpg",
+   "price": 3.39,
+   "old_price": 16.99,
+   "discount": 80,
+   "link": "https://www.indiegala.com/store/game/table-manners/1019450?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "7b91291228",
+   "title": "Dreamscaper",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1040420.jpg",
+   "price": 4.59,
+   "old_price": 22.99,
+   "discount": 80,
+   "link": "https://www.indiegala.com/store/game/dreamscaper/1040420?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "6b6877e873",
+   "title": "Superliminal",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1049410.jpg",
+   "price": 6.52,
+   "old_price": 19.5,
+   "discount": 67,
+   "link": "https://www.indiegala.com/store/game/superliminal/1049410?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "24bad6d81c",
+   "title": "Fort Boyard",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1058330.jpg",
+   "price": 1.99,
+   "old_price": 19.99,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/fort-boyard/1058330?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "495d6dbf00",
+   "title": "EMBR",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1062830.jpg",
+   "price": 3.99,
+   "old_price": 19.99,
+   "discount": 80,
+   "link": "https://www.indiegala.com/store/game/embr/1062830?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "054ba727c8",
+   "title": "Sands of Aura",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1119840.jpg",
+   "price": 9.19,
+   "old_price": 22.99,
+   "discount": 60,
+   "link": "https://www.indiegala.com/store/game/sands-of-aura/1119840?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "bc1b776239",
+   "title": "Golf Gang",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1151050.jpg",
+   "price": 1.99,
+   "old_price": 9.99,
+   "discount": 80,
+   "link": "https://www.indiegala.com/store/game/golf-gang/1151050?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "ab698c0ed7",
+   "title": "Titeuf: Mega Party",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1165610.jpg",
+   "price": 5.99,
+   "old_price": 29.99,
+   "discount": 80,
+   "link": "https://www.indiegala.com/store/game/titeuf-mega-party/1165610?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "c808b283f2",
+   "title": "Escape Academy 2: Back 2 School - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/19555/616x353/escape-academy-2-back-2-school-pc-steam-cover.jpg?v=1794328932",
+   "price": 10.89,
+   "old_price": 17.0,
+   "discount": 36,
+   "link": "https://www.instant-gaming.com/en/19555-buy-escape-academy-2-back-2-school-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Escape Academy 2: Back 2 School - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "ada0e80baa",
+   "title": "Fable - PC & XBOX Series X|S (Microsoft Store)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/22985/616x353/fable-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1782831857",
+   "price": 48.99,
+   "old_price": 70.0,
+   "discount": 30,
+   "link": "https://www.instant-gaming.com/en/22985-buy-fable-pc-xbox-series-x-s-microsoft-store/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Pre-order Fable - PC & XBOX Series X|S (Microsoft Store) cheaper on Instant Gaming, the place to buy your games at the best price !",
+   "platforms": [
+    "Xbox",
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "3a7aac61e0",
+   "title": "Human: Fall Flat - PC & Mac (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/1611/616x353/human-fall-flat-pc-mac-game-steam-cover.jpg?v=1686583894",
+   "price": 1.09,
+   "old_price": 20.0,
+   "discount": 95,
+   "link": "https://www.instant-gaming.com/en/1611-buy-human-fall-flat-pc-mac-game-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Human: Fall Flat - PC & Mac (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "022aa5073b",
+   "title": "Warhammer Survivors - PC (Steam) - Latin America",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/24448/616x353/warhammer-survivors-pc-steam-cover.jpg?v=1794304845",
+   "price": 3.99,
+   "old_price": 7.0,
+   "discount": 43,
+   "link": "https://www.instant-gaming.com/en/24448-buy-warhammer-survivors-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Warhammer Survivors - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "eb740415f7",
+   "title": "Rain World: Downpour - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/13403/616x353/rain-world-downpour-pc-game-steam-cover.jpg?v=1715262218",
+   "price": 3.49,
+   "old_price": 14.0,
+   "discount": 75,
+   "link": "https://www.instant-gaming.com/en/13403-buy-rain-world-downpour-pc-game-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Rain World: Downpour - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "9945e3710a",
+   "title": "PlayStation Store gift card 25$ - United States",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/9987/616x353/playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1719821630",
+   "price": 20.89,
+   "old_price": 22.0,
+   "discount": 5,
+   "link": "https://www.instant-gaming.com/en/9987-buy-playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy PlayStation Store gift card 25$ cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PlayStation",
+    "Gift Cards"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "43148c7e15",
+   "title": "The Devil Within: Satgat - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/18446/616x353/the-devil-within-satgat-pc-game-steam-cover.jpg?v=1736937571",
+   "price": 1.69,
+   "old_price": 25.0,
+   "discount": 93,
+   "link": "https://www.instant-gaming.com/en/18446-buy-the-devil-within-satgat-pc-game-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy The Devil Within: Satgat - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "f3b799ebc8",
+   "title": "Immortal Realms: Vampire Wars - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/5634/616x353/immortal-realms-vampire-wars-pc-game-steam-cover.jpg?v=1710756319",
+   "price": 1.09,
+   "old_price": 30.0,
+   "discount": 96,
+   "link": "https://www.instant-gaming.com/en/5634-buy-immortal-realms-vampire-wars-pc-game-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Immortal Realms: Vampire Wars - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "f622ab07f3",
+   "title": "Football Manager 27 - PC & Mac (Steam) - Europe",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/23818/616x353/football-manager-27-pc-mac-steam-cover.jpg?v=1794387132",
+   "price": 35.49,
+   "old_price": 60.0,
+   "discount": 41,
+   "link": "https://www.instant-gaming.com/en/23818-buy-football-manager-27-pc-mac-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Football Manager 27 - PC & Mac (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "6100bd0feb",
+   "title": "Phantom Blade Zero Digital Deluxe Edition - PC (Steam) - Europe & USA & Canada",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/23617/616x353/phantom-blade-zero-digital-deluxe-edition-pc-steam-cover.jpg?v=1793261315",
+   "price": 52.99,
+   "old_price": 70.0,
+   "discount": 24,
+   "link": "https://www.instant-gaming.com/en/23617-buy-phantom-blade-zero-digital-deluxe-edition-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Phantom Blade Zero Digital Deluxe Edition - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "84a68390e9",
+   "title": "Hollow Knight - PC & Mac (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/2198/616x353/hollow-knight-pc-mac-steam-cover.jpg?v=1755854893",
+   "price": 8.89,
+   "old_price": 15.0,
+   "discount": 41,
+   "link": "https://www.instant-gaming.com/en/2198-buy-hollow-knight-pc-mac-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Hollow Knight - PC & Mac (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "216f866ab5",
+   "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/8441/616x353/teenage-mutant-ninja-turtles-shredder-s-revenge-pc-steam-cover.jpg?v=1790572921",
+   "price": 2.69,
+   "old_price": 25.0,
+   "discount": 89,
+   "link": "https://www.instant-gaming.com/en/8441-buy-teenage-mutant-ninja-turtles-shredder-s-revenge-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Teenage Mutant Ninja Turtles: Shredder's Revenge - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "07defda34e",
+   "title": "DayZ - PC (Steam) - Europe",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/3393/616x353/dayz-pc-steam-cover.jpg?v=1764576318",
+   "price": 25.99,
+   "old_price": 48.0,
+   "discount": 46,
+   "link": "https://www.instant-gaming.com/en/3393-buy-dayz-pc-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy DayZ - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "fd37188681",
+   "title": "EA Sports FC 24 - 5900 FC Points (EA App)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/15004/616x353/ea-sports-fc-24-5900-fc-points-5900-fc-pc-game-ea-app-cover.jpg?v=1718719089",
+   "price": 8.99,
+   "old_price": 50.0,
+   "discount": 82,
+   "link": "https://www.instant-gaming.com/en/15004-buy-ea-sports-fc-24-5900-fc-points-5900-fc-pc-game-ea-app/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy EA Sports FC 24 - 5900 FC Points (EA App) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "11f7914508",
+   "title": "EA Sports FC 24 - 2800 FC Points (EA App)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/14586/616x353/ea-sports-fc-24-2800-fc-points-2800-fc-pc-game-ea-app-cover.jpg?v=1718879654",
+   "price": 1.99,
+   "old_price": 25.0,
+   "discount": 92,
+   "link": "https://www.instant-gaming.com/en/14586-buy-ea-sports-fc-24-2800-fc-points-2800-fc-pc-game-ea-app/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy EA Sports FC 24 - 2800 FC Points (EA App) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "b9504dfe9d",
+   "title": "Hot Wheels Unleashed 2 Turbocharged - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/14238/616x353/hot-wheels-unleashed-2-turbocharged-pc-game-steam-cover.jpg?v=1697807166",
+   "price": 14.99,
+   "old_price": 40.0,
+   "discount": 63,
+   "link": "https://www.instant-gaming.com/en/14238-buy-hot-wheels-unleashed-2-turbocharged-pc-game-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Hot Wheels Unleashed 2 Turbocharged - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "2c3e9f0bed",
+   "title": "Dead Island 2 - XBOX One & XBOX Series X|S",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/13400/616x353/dead-island-2-xbox-one-xbox-series-x-s-game-microsoft-store-cover.jpg?v=1739359692",
+   "price": 9.99,
+   "old_price": 50.0,
+   "discount": 80,
+   "link": "https://www.instant-gaming.com/en/13400-buy-dead-island-2-xbox-one-xbox-series-x-s-game-microsoft-store/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Dead Island 2 - XBOX One & XBOX Series X|S cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "Xbox",
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "cd41895218",
+   "title": "Survivor - Castaway Island - PC (Steam)",
+   "store": "instantgaming",
+   "image": "https://gaming-cdn.com/images/products/15158/616x353/survivor-castaway-island-pc-game-steam-cover.jpg?v=1697030346",
+   "price": 4.99,
+   "old_price": 25.0,
+   "discount": 80,
+   "link": "https://www.instant-gaming.com/en/15158-buy-survivor-castaway-island-pc-game-steam/?igr=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Buy Survivor - Castaway Island - PC (Steam) cheaper on Instant Gaming, the place to buy your games at the best price with immediate delivery!",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "71d232fefb",
+   "title": "Space Crew: Legendary Edition",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1176710_legendary.jpg",
+   "price": 2.39,
+   "old_price": 15.99,
+   "discount": 85,
+   "link": "https://www.indiegala.com/store/game/space-crew-legendary-edition/1176710_legendary?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "d096b52d41",
+   "title": "Jetboard Joust",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1181600.jpg",
+   "price": 0.94,
+   "old_price": 9.49,
+   "discount": 90,
+   "link": "https://www.indiegala.com/store/game/jetboard-joust/1181600?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
+    "PC"
+   ],
+   "preorder": false,
+   "upcoming": false,
+   "daily_deal": false,
+   "custom": false
+  },
+  {
+   "id": "db369ece16",
+   "title": "Mad Experiments: Escape Room",
+   "store": "indiegala",
+   "image": "https://www.indiegalacdn.com/store-img_game/games/medium/1201550.jpg",
+   "price": 3.93,
+   "old_price": 14.79,
+   "discount": 73,
+   "link": "https://www.indiegala.com/store/game/mad-experiments-escape-room/1201550?ref=gamenomadbot",
+   "wishlist": false,
+   "featured": false,
+   "description": "Official Steam key digital key available on IndieGala.",
+   "platforms": [
     "PC"
    ],
    "preorder": false,
